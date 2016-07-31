@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<test-run id="2" testcasecount="4" result="Passed" total="4" passed="4" failed="0" inconclusive="0" skipped="0" asserts="4" engine-version="3.4.1.0" clr-version="4.0.30319.42000" start-time="2016-07-30 20:22:17Z" end-time="2016-07-30 20:22:18Z" duration="1.076210">
+  <command-line><![CDATA[..\\..\\..\\packages\\NUnit.ConsoleRunner.3.4.1\\tools\\nunit3-console.exe  UnitTestProject1.dll]]></command-line>
+  <test-suite type="Assembly" id="0-1009" name="UnitTestProject1.dll" fullname="C:\Users\tanya\Documents\Visual Studio 2015\Projects\UnitTests\StudentsAndCourses\UnitTestProject1\bin\Debug\UnitTestProject1.dll" runstate="Runnable" testcasecount="4" result="Passed" start-time="2016-07-30 20:22:18Z" end-time="2016-07-30 20:22:18Z" duration="0.664602" total="4" passed="4" failed="0" inconclusive="0" skipped="0" asserts="4">
+    <environment framework-version="3.4.1.0" clr-version="4.0.30319.42000" os-version="Microsoft Windows NT 10.0.10586.0" platform="Win32NT" cwd="C:\Users\tanya\Documents\Visual Studio 2015\Projects\UnitTests\StudentsAndCourses\UnitTestProject1\bin\Debug" machine-name="VICTORIA" user="tanya" user-domain="VICTORIA" culture="en-GB" uiculture="en-US" os-architecture="x64" />
+    <settings>
+      <setting name="WorkDirectory" value="C:\Users\tanya\Documents\Visual Studio 2015\Projects\UnitTests\StudentsAndCourses\UnitTestProject1\bin\Debug" />
+      <setting name="ImageRuntimeVersion" value="4.0.30319" />
+      <setting name="ImageTargetFrameworkName" value=".NETFramework,Version=v4.5.2" />
+      <setting name="ImageRequiresX86" value="False" />
+      <setting name="ImageRequiresDefaultAppDomainAssemblyResolver" value="False" />
+      <setting name="NumberOfTestWorkers" value="2" />
+    </settings>
+    <properties>
+      <property name="_PID" value="16312" />
+      <property name="_APPDOMAIN" value="test-domain-" />
+    </properties>
+    <test-suite type="TestSuite" id="0-1010" name="School" fullname="School" runstate="Runnable" testcasecount="4" result="Passed" start-time="2016-07-30 20:22:18Z" end-time="2016-07-30 20:22:18Z" duration="0.550421" total="4" passed="4" failed="0" inconclusive="0" skipped="0" asserts="4">
+      <test-suite type="TestSuite" id="0-1011" name="Tests" fullname="School.Tests" runstate="Runnable" testcasecount="4" result="Passed" start-time="2016-07-30 20:22:18Z" end-time="2016-07-30 20:22:18Z" duration="0.544890" total="4" passed="4" failed="0" inconclusive="0" skipped="0" asserts="4">
+        <test-suite type="TestFixture" id="0-1000" name="CourseTest" fullname="School.Tests.CourseTest" classname="School.Tests.CourseTest" runstate="Runnable" testcasecount="4" result="Passed" start-time="2016-07-30 20:22:18Z" end-time="2016-07-30 20:22:18Z" duration="0.524305" total="4" passed="4" failed="0" inconclusive="0" skipped="0" asserts="4">
+          <test-suite type="ParameterizedMethod" id="0-1004" name="AddCoursesRight" fullname="School.Tests.CourseTest.AddCoursesRight" classname="School.Tests.CourseTest" runstate="Runnable" testcasecount="1" result="Passed" start-time="2016-07-30 20:22:18Z" end-time="2016-07-30 20:22:18Z" duration="0.188441" total="1" passed="1" failed="0" inconclusive="0" skipped="0" asserts="1">
+            <test-case id="0-1003" name="AddCoursesRight()" fullname="School.Tests.CourseTest.AddCoursesRight()" methodname="AddCoursesRight" classname="School.Tests.CourseTest" runstate="Runnable" seed="1850491182" result="Passed" start-time="2016-07-30 20:22:18Z" end-time="2016-07-30 20:22:18Z" duration="0.148838" asserts="1" />
+          </test-suite>
+          <test-suite type="ParameterizedMethod" id="0-1008" name="AddMoreThan30Students" fullname="School.Tests.CourseTest.AddMoreThan30Students" classname="School.Tests.CourseTest" runstate="Runnable" testcasecount="1" result="Passed" start-time="2016-07-30 20:22:18Z" end-time="2016-07-30 20:22:18Z" duration="0.050124" total="1" passed="1" failed="0" inconclusive="0" skipped="0" asserts="1">
+            <test-case id="0-1007" name="AddMoreThan30Students()" fullname="School.Tests.CourseTest.AddMoreThan30Students()" methodname="AddMoreThan30Students" classname="School.Tests.CourseTest" runstate="Runnable" seed="2113105522" result="Passed" start-time="2016-07-30 20:22:18Z" end-time="2016-07-30 20:22:18Z" duration="0.039154" asserts="1" />
+          </test-suite>
+          <test-suite type="ParameterizedMethod" id="0-1002" name="CourseInitRight" fullname="School.Tests.CourseTest.CourseInitRight" classname="School.Tests.CourseTest" runstate="Runnable" testcasecount="1" result="Passed" start-time="2016-07-30 20:22:18Z" end-time="2016-07-30 20:22:18Z" duration="0.030241" total="1" passed="1" failed="0" inconclusive="0" skipped="0" asserts="1">
+            <test-case id="0-1001" name="CourseInitRight()" fullname="School.Tests.CourseTest.CourseInitRight()" methodname="CourseInitRight" classname="School.Tests.CourseTest" runstate="Runnable" seed="422433292" result="Passed" start-time="2016-07-30 20:22:18Z" end-time="2016-07-30 20:22:18Z" duration="0.023052" asserts="1" />
+          </test-suite>
+          <test-suite type="ParameterizedMethod" id="0-1006" name="RemoveStudentsCorrectly" fullname="School.Tests.CourseTest.RemoveStudentsCorrectly" classname="School.Tests.CourseTest" runstate="Runnable" testcasecount="1" result="Passed" start-time="2016-07-30 20:22:18Z" end-time="2016-07-30 20:22:18Z" duration="0.008312" total="1" passed="1" failed="0" inconclusive="0" skipped="0" asserts="1">
+            <test-case id="0-1005" name="RemoveStudentsCorrectly()" fullname="School.Tests.CourseTest.RemoveStudentsCorrectly()" methodname="RemoveStudentsCorrectly" classname="School.Tests.CourseTest" runstate="Runnable" seed="491588907" result="Passed" start-time="2016-07-30 20:22:18Z" end-time="2016-07-30 20:22:18Z" duration="0.005190" asserts="1" />
+          </test-suite>
+        </test-suite>
+      </test-suite>
+    </test-suite>
+  </test-suite>
+</test-run>

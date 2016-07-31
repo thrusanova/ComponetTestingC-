@@ -1,0 +1,12 @@
+C:\Users\tanya\Documents\Visual Studio 2015\Projects\UnitTests\StudentsAndCourses\UnitTestProject1\bin\Debug\UnitTestProject1.dll
+C:\Users\tanya\Documents\Visual Studio 2015\Projects\UnitTests\StudentsAndCourses\UnitTestProject1\bin\Debug\UnitTestProject1.pdb
+C:\Users\tanya\Documents\Visual Studio 2015\Projects\UnitTests\StudentsAndCourses\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\tanya\Documents\Visual Studio 2015\Projects\UnitTests\StudentsAndCourses\UnitTestProject1\bin\Debug\MSTestExtensions.dll
+C:\Users\tanya\Documents\Visual Studio 2015\Projects\UnitTests\StudentsAndCourses\UnitTestProject1\bin\Debug\nunit.framework.dll
+C:\Users\tanya\Documents\Visual Studio 2015\Projects\UnitTests\StudentsAndCourses\UnitTestProject1\bin\Debug\StudentsAndCourses.exe
+C:\Users\tanya\Documents\Visual Studio 2015\Projects\UnitTests\StudentsAndCourses\UnitTestProject1\bin\Debug\StudentsAndCourses.pdb
+C:\Users\tanya\Documents\Visual Studio 2015\Projects\UnitTests\StudentsAndCourses\UnitTestProject1\bin\Debug\nunit.framework.xml
+C:\Users\tanya\Documents\Visual Studio 2015\Projects\UnitTests\StudentsAndCourses\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+C:\Users\tanya\Documents\Visual Studio 2015\Projects\UnitTests\StudentsAndCourses\UnitTestProject1\obj\Debug\UnitTestProject1.csprojResolveAssemblyReference.cache
+C:\Users\tanya\Documents\Visual Studio 2015\Projects\UnitTests\StudentsAndCourses\UnitTestProject1\obj\Debug\UnitTestProject1.dll
+C:\Users\tanya\Documents\Visual Studio 2015\Projects\UnitTests\StudentsAndCourses\UnitTestProject1\obj\Debug\UnitTestProject1.pdb

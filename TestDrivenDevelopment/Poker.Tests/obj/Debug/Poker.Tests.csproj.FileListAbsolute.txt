@@ -1,0 +1,9 @@
+C:\Users\tanya\Documents\Visual Studio 2015\Projects\ComponetTestingC-\TestDrivenDevelopment\Poker.Tests\bin\Debug\Poker.Tests.dll
+C:\Users\tanya\Documents\Visual Studio 2015\Projects\ComponetTestingC-\TestDrivenDevelopment\Poker.Tests\bin\Debug\Poker.Tests.pdb
+C:\Users\tanya\Documents\Visual Studio 2015\Projects\ComponetTestingC-\TestDrivenDevelopment\Poker.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\tanya\Documents\Visual Studio 2015\Projects\ComponetTestingC-\TestDrivenDevelopment\Poker.Tests\bin\Debug\Poker.exe
+C:\Users\tanya\Documents\Visual Studio 2015\Projects\ComponetTestingC-\TestDrivenDevelopment\Poker.Tests\bin\Debug\Poker.pdb
+C:\Users\tanya\Documents\Visual Studio 2015\Projects\ComponetTestingC-\TestDrivenDevelopment\Poker.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+C:\Users\tanya\Documents\Visual Studio 2015\Projects\ComponetTestingC-\TestDrivenDevelopment\Poker.Tests\obj\Debug\Poker.Tests.csprojResolveAssemblyReference.cache
+C:\Users\tanya\Documents\Visual Studio 2015\Projects\ComponetTestingC-\TestDrivenDevelopment\Poker.Tests\obj\Debug\Poker.Tests.dll
+C:\Users\tanya\Documents\Visual Studio 2015\Projects\ComponetTestingC-\TestDrivenDevelopment\Poker.Tests\obj\Debug\Poker.Tests.pdb
